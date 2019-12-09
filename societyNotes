@@ -1,0 +1,43 @@
+
+. the items needs to be out of words... could this be made wiht blocks first like in the snake game
+
+. reasearch collion detection 
+
+. when they M + F collide child is born 
+
+time element to the project - once certain amount of time has passed... 
+
+Three stages of Life - child, adult, OAP 
+
+Only Adults can have childeren 
+
+food needs to randomly appear - collision detection needs to happen. 
+
+record of how many childen born/ people have died. 
+
+once population reached a certain amount.... virus begins to randomly appear. 
+
+how many life forms exist currently. 
+
+how much food is in circualtion 
+
+
+The need to eat X amount of food per day.... otherwise they expire
+
+Adults move faster than old people and childeren 
+
+
+
+
+
+..... 
+
+
+Task 1
+
+create a randomly moving object arround a canvas then move on to collision detection 
+
+Compare with snake game. 
+
+
+
